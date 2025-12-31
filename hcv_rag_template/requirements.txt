@@ -1,0 +1,13 @@
+pymupdf
+nltk
+pandas
+tqdm
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+torch
+sacrebleu
+rouge-score
+gradio
+numpy
