@@ -1,6 +1,10 @@
-# HCV RAG – Organized Project Template
+# HCV RAG – Organized Project
+Tools & Skills: Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), Python, PyTorch, BM25F, Quantization, Clinical NLP, Evaluation Metrics
+Course: Artificial Neural Computation – Arizona State University
 
-This template gives you a **clean, reproducible layout** for your Colab-based Retrieval‑Augmented Generation (RAG) project on Hepatitis C guidelines. It avoids Drive folder names like `project (1)` by letting you set a **fixed base folder** (e.g., `/content/drive/MyDrive/hcv_rag`).
+Designed and implemented MedRAG, a two-layer RAG framework for medical question answering using social media data (Reddit), enabling low-resource deployment on quantized LLMs.
+Achieved performance parity with GPT-4 across coverage, coherence, relevance, and hallucination metrics while operating on consumer-grade hardware with an 8-bit quantized model.
+Conducted expert-driven evaluation, statistical analysis, and readability assessment, demonstrating the system’s viability for resource-constrained clinical and patient-facing applications.
 
 ## Folder Structure
 
